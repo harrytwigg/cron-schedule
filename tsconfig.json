@@ -5,9 +5,9 @@
     "sourceMap": true,
     "declaration": true,
 
-    "target": "es6",
-    "module": "es2022",
-    "moduleResolution": "nodenext",
+    "target": "ES5",
+    "module": "CommonJS",
+    "moduleResolution": "Node",
 
     "strict": true,
     "noFallthroughCasesInSwitch": true,

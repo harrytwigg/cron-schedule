@@ -1,11 +1,11 @@
 {
-  "name": "cron-schedule",
+  "name": "@harrytwigg/cron-schedule",
   "description": "A zero-dependency cron parser and scheduler for Node.js, Deno and the browser.",
   "version": "4.0.0",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/P4sca1/cron-schedule.git"
+    "url": "https://github.com/harrytwigg/cron-schedule.git"
   },
   "author": "P4sca1 <sthamer.pascal@gmail.com>",
   "contributors": [

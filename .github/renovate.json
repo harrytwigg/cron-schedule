@@ -1,5 +1,0 @@
-{
-	"enabled": true,
-	"baseBranches": ["next"],
-	"extends": ["github>IPS-Hosting/renovate-config"]
-}
