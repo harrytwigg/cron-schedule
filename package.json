@@ -3,6 +3,10 @@
   "description": "A zero-dependency cron parser and scheduler for Node.js, Deno and the browser.",
   "version": "4.0.0",
   "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
+  "private": false,
   "repository": {
     "type": "git",
     "url": "https://github.com/harrytwigg/cron-schedule.git"
