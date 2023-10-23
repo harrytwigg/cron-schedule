@@ -1,7 +1,7 @@
 {
   "name": "@harrytwigg/cron-schedule",
   "description": "A zero-dependency cron parser and scheduler for Node.js, Deno and the browser.",
-  "version": "4.0.0",
+  "version": "4.0.1",
   "license": "MIT",
   "publishConfig": {
     "access": "public"
@@ -31,7 +31,7 @@
     "schedule-tasks",
     "nodejs"
   ],
-  "type": "module",
+  "type": "commonjs",
   "packageManager": "yarn@3.2.0",
   "engines": {
     "node": ">=16"
